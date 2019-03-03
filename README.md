@@ -62,8 +62,7 @@ Theoretical Topics
 
 **Consensus Algorithm**
 
-- [In Search of an Understandable  
-Consensus Algorithm](web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)
+- [In Search of an Understandable Consensus Algorithm](web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)
 - [Single Degree Paxos](https://mwhittaker.github.io/blog/single_decree_paxos/)
 - [Raft Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 
@@ -82,4 +81,4 @@ Articles in Bahasa Indonesia
 
 - [Pathfinder: Membangun Container Orchestrator Sendiri](https://medium.com/pujanggateknologi/pathfinder-membangun-container-orchestrator-sendiri-634eeeb3a0b) by [Giovanni Sakti](https://twitter.com/giosakti)
 - [Kubernetes ConfigMap pada Aplikasi Dinamis](https://medium.com/pujanggateknologi/kubernetes-configmap-pada-aplikasi-dinamis-dce2d38a1040) by [Reyhan Sofian](https://github.com/reyhansofian)
-- [Kabel terhubung di jaringan kontainer](https://medium.com/pujanggateknologi/kabel-terhubung-di-jaringan-kontainer-ae46208cde30) by [Giri Kuncoro](https://twitter.com/girikuncoro)
+- [Kabel Terhubung di Jaringan Kontainer](https://medium.com/pujanggateknologi/kabel-terhubung-di-jaringan-kontainer-ae46208cde30) by [Giri Kuncoro](https://twitter.com/girikuncoro)
