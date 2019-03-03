@@ -20,6 +20,36 @@ Starting Point
 =======================================================================
 
 *Good for new folks learning Kubernetes*
+- [Kubernetes Comics](https://cloud.google.com/kubernetes-engine/kubernetes-comic/)
+- [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16) 
+- [Kubernetes Tutorial](https://kubernetes.io/docs/tutorials/)
+
+
+Main Resources
+=======================================================================
+
+- [Kubernetes Documentation](https://kubernetes.io/docs/home/)
+
+
+Advanced Topics
+=======================================================================
+
+- [Istio: Service Mesh](https://istio.io/)
+
+
+Theoretical Topics
+=======================================================================
+
+**Distributed System**
+- [Large-scale cluster management at Google with Borg](https://pdos.csail.mit.edu/6.824/papers/borg.pdf)
+- [The Chubby lock service for loosely-coupled distributed systems](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf)
+
+**Consensus Algorithm**
+
+- [In Search of an Understandable  
+Consensus Algorithm](web.stanford.edu/~ouster/cgi-bin/papers/raft-atc14)
+- [Single Degree Paxos](https://mwhittaker.github.io/blog/single_decree_paxos/)
+- [Raft Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf)
 
 Articles in Bahasa Indonesia
 =======================================================================
