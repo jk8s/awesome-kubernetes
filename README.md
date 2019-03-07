@@ -49,6 +49,12 @@ Main Resources
 Advanced Topics
 =======================================================================
 
+- [Helm Charts](https://helm.sh)
+    - [Helm Tutorial](https://github.com/muffin87/helm-tutorial)
+    - [Awesome Helm](https://github.com/cdwv/awesome-helm)
+    - [Deploying Applications with Helm](https://cloudacademy.com/blog/deploying-kubernetes-applications-with-helm/)
+    - [Using Helm to Deploy Kubernetes](https://daemonza.github.io/2017/02/20/using-helm-to-deploy-to-kubernetes/)
+    - [Writing a Helm Chart](https://www.influxdata.com/blog/packaged-kubernetes-deployments-writing-helm-chart/)
 - [Istio: Service Mesh](https://istio.io/)
 
 
