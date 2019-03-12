@@ -56,7 +56,22 @@ Advanced Topics
     - [Using Helm to Deploy Kubernetes](https://daemonza.github.io/2017/02/20/using-helm-to-deploy-to-kubernetes/)
     - [Writing a Helm Chart](https://www.influxdata.com/blog/packaged-kubernetes-deployments-writing-helm-chart/)
 - [Istio: Service Mesh](https://istio.io/)
-
+- CI/CD
+    - [GitLab](https://about.gitlab.com/solutions/kubernetes/)
+        - [Connecting GitLab with a Kubernetes cluster](https://docs.gitlab.com/ee/user/project/clusters/)
+        - [How to set up Gitlab CI/CD with Google Cloud Container Registry and Kubernetes](https://medium.com/@davivc/how-to-set-up-gitlab-ci-cd-with-google-cloud-container-registry-and-kubernetes-fa88ab7b1295)
+        - [Deploying to Google Kubernetes Engine from Gitlab CI](https://medium.com/john-lewis-software-engineering/deploying-to-google-kubernetes-engine-from-gitlab-ci-feaf51dae0c1)
+    - Jenkins
+        - [Configuring CI/CD on Kubernetes with Jenkins](https://medium.com/containerum/configuring-ci-cd-on-kubernetes-with-jenkins-89eab7234270)
+        - [Continuous Deployment to Kubernetes Engine using Jenkins](https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine)
+- Networking
+    - [IPVS-Based In-Cluster Load Balancing Deep Dive](https://kubernetes.io/blog/2018/07/09/ipvs-based-in-cluster-load-balancing-deep-dive/)
+- Avoiding Outages
+    - [Disruptions](https://kubernetes.io/docs/concepts/workloads/pods/disruptions/)
+    - [Specifying a Disruption Budget for your Application](https://kubernetes.io/docs/tasks/run-application/configure-pdb/)
+- Managing Resources
+    - [Kubernetes best practices: Resource requests and limits](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-resource-requests-and-limits)
+    - [Configure Default Memory Requests and Limits for a Namespace](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/)
 
 -----------------------------------------------------------------------
 Theoretical Topics
