@@ -81,6 +81,14 @@ Advanced Topics
 - Managing Resources
     - [Kubernetes best practices: Resource requests and limits](https://cloud.google.com/blog/products/gcp/kubernetes-best-practices-resource-requests-and-limits)
     - [Configure Default Memory Requests and Limits for a Namespace](https://kubernetes.io/docs/tasks/administer-cluster/manage-resources/)
+- Cluster Federation
+    - [kubernetes/federation](https://github.com/kubernetes/federation)
+    - [Federation](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
+    - [Set up Cluster Federation with Kubefed](https://kubernetes.io/docs/tasks/federation/set-up-cluster-federation-kubefed/)
+    - [Cross-cluster Service Discovery using Federated Services](https://kubernetes.io/docs/tasks/federation/)
+    - [Kubernetes Federation Evolution](https://kubernetes.io/blog/2018/12/12/kubernetes-federation-evolution/)
+    - [Cluster Federation and Global Load Balancing on Kubernetes and Google Cloud](https://medium.com/google-cloud/planet-scale-microservices-with-cluster-federation-and-global-load-balancing-on-kubernetes-and-a8e7ef5efa5e)
+    - [Experimenting with Cross Cloud Kubernetes Cluster Federation](https://medium.com/google-cloud/experimenting-with-cross-cloud-kubernetes-cluster-federation-dfa99f913d54)
 
 -----------------------------------------------------------------------
 Theoretical Topics
